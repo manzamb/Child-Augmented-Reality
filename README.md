@@ -1,4 +1,4 @@
-# ChildLAugmentedReality- Child learning with Augmented Reality
+# Child learning with Augmented Reality
 
 IDEA
 
